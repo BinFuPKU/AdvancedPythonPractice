@@ -1,2 +1,2 @@
 # AdvancedPythonPractice
-this project is driving deep into the details of advanced python.
+this project is diving deep into the details of advanced python.
